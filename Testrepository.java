@@ -23,8 +23,7 @@ public class Testrepository {
         
         System.out.println("THIS I'm TRYING TO COMIT");
         
-        
-        System.out.println("This is new");
+        System.out.println("Brand New Commnit");
     }
     
 }
